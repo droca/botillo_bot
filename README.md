@@ -1,3 +1,5 @@
+Reminder to self: not work anymore on this repo but on the ragkarok team one
+
 # How to generate bot token token
 add info here on how to generate the token
 
